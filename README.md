@@ -1,2 +1,4 @@
 # Bloodmoon_Plus
- A fork of the Minecraft plugin, BloodMoon.
+ A clone of the Minecraft Spigot server plugin, BloodMoon.
+
+ The source code for the original plugin can be found here: https://gitlab.com/SpectralMemories/bloodmoon/
