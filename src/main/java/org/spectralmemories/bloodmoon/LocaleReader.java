@@ -44,8 +44,8 @@ public class LocaleReader implements Closeable
             "BloodMoon",
             "during a BloodMoon!",
             "&aThere are&f $d &adays until the next BloodMoon",
-            "&ca BloodMoon is taking place right now!",
-            "&6a BloodMoon is on its way tomorrow",
+            "&cA BloodMoon is taking place right now!",
+            "&6A BloodMoon is on its way tomorrow",
             "&5The sky is darker than usual tonight",
             "&4&lThe BloodMoon is upon us",
             "&cExperience is multiplied, and mobs have bonus drops$n" +
